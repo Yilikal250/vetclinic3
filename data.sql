@@ -15,6 +15,11 @@ VALUES
 ('Blossom', DATE '1998-10-13', 3, 'TRUE', 17),
 ('Ditto', DATE '2022-05-14', 4, 'TRUE', 22);
 
+INSERT INTO species (name)
+VALUES
+('Pokemon'),
+('Digimon');
+
 INSERT INTO owners (full_name, age)
 VALUES
 ('Sam Smith', 34),
