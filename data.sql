@@ -33,7 +33,7 @@ INSERT INTO species (name)
 VALUES
 ('Pokemon'),
 ('Digimon');
-
+--updated datas--
 UPDATE animals
 SET species_id = (SELECT id FROM species WHERE name = 'Digimon')
 WHERE name LIKE '%mon';
@@ -76,7 +76,7 @@ VALUES
 (3, 2),
 (3, 1),
 (4,2);
-
+--inserted datas into visits--
 INSERT INTO visits (animal_id, vet_id, date_of_visit)
 VALUES
 (1, 1, DATE '2020-05-24'),
