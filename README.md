@@ -98,47 +98,34 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+Postgres sql or other DBMS on your device
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
+<a href=  git@github.com:Yilikal250/vetclinic3.git>Clone</a></li>
 
-<!--
-Example commands:
 
-```sh
-  cd my-folder
-  git@github.com:Yilikal250/vetclinic3.git
-```
---->
 
 ### Install
 
 Install PostgreSQL:
 
-<!--
-1,Visit postgresql.org:
-2,Select your OS:
-3,Download the installer:
-4,Choose the relevant PostgreSQL Version:
-5,Open the downloaded file:
-6,Choose Installation directory:
-7,Select Components:
-8,Select Data Directory:
-9,Set Password:
-10,Set Port Number:
-11,Advanced Options:
-12,Verify Pre-installation Summary:
-13,Begin PostgreSQL Installation:
+-1,Visit postgresql.org<br />
+-2,Select your OS<br />
+-3,Download the installer<br />
+-4,Choose the relevant PostgreSQL Version<br />
+-5,Open the downloaded file<br />
+-6,Choose Installation directory<br />
+-7,Select Components<br />
+-8,Select Data Directory<br />
+-9,Set Password<br />
+-10,Set Port Number<br />
+-11,Advanced Options<br />
+-12,Verify Pre-installation Summary<br />
+-13,Begin PostgreSQL Installation<br />
 
---->
 
 ### Usage
 
@@ -156,18 +143,6 @@ To run the project, open postgres and run the commands inside the data.sql,schem
 - GitHub: [@githubhandle](https://github.com/Yilikal250)
 - Twitter: [@twitterhandle](https://twitter.com/TeshomeYilikal)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/yilikal-teshome)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
